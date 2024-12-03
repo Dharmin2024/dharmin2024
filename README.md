@@ -13,6 +13,12 @@ My name is Dharmin, I live in London I’ve got a 2.1. in BSc in Economics from 
 ### Skills
 
 
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+<a href="http://www.github.com/CatherineNBgh"><img src="https://github-readme-stats.vercel.app/api?username=CatherineNBgh&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="CatherineNBgh's GitHub stats" /></a>
+ 
+<a href="https://public.tableau.com/app/profile/catherine.baxendale/vizzes" target="_blank" rel="noreferrer; return false;"><img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/tableau.svg" width="163" height="36" alt="Tableau Logo" /> Tableau </a>&nbsp;&nbsp;
 </p>
+ 
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /> MySQL </a>
+ 
+<a href="https://app.powerbi.com/groups/me/reports/5d6d5051-8f04-4558-b252-332938912335/20b797b3a71827fd45e3?experience=power-bi" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" width="36" height="36" alt="PowerBI" /></a>&nbsp;&nbsp;
+ 
