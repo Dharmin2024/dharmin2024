@@ -10,7 +10,7 @@ My name is Dharmin, I live in London I’ve got a 2.1. in BSc in Economics from 
 * 🧠  I'm learning SQL, Python, Pandas, NumPy
 * ⚡  fidshfishsf
 
-### Skills & 💻 Tech Stack:
+### 💻 Skills & Tech Stack:
 
 
 ###
