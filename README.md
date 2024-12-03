@@ -38,8 +38,7 @@ My name is Dharmin, I live in London I’ve got a 2.1. in BSc in Economics from 
 
 ### Badges
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/86/Microsoft_Excel_2013_logo.svg" alt="Excel Logo" width="100"/>
-
+<img src="https://en.m.wikipedia.org/wiki/File:Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="Excel Logo" width="100"/>
 
 
 
