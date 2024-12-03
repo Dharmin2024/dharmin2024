@@ -12,7 +12,8 @@ I now have 10+ years of experience in startups and technology (as a founder, men
 
 * 🌍  I'm based in London
 * 🧠  I'm learning SQL, Python, Pandas, NumPy
-* ⚡  fidshfishsf
+* ⚡   Prev/Consult as Product Manager in tech
+* 🤓  Prev. Business Analyst in Investment Banking
 
 ### 💻 Skills & Tech Stack:
 
