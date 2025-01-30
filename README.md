@@ -4,16 +4,16 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Budding Data Analyst
 --------------------
 
-My name is Dharmin, I live in London I’ve got a 2.1. in BSc in Economics from the LSE. I love all things science and maths so I like facts behind decision. I am a data driven evidence person at heart. 
+My name is Dharmin, I live in London and I’ve got a 2.1. in BSc in Economics from the LSE. I love all things science and maths and of course economics and business in general. 
 
-In a previous life I worked as a Business Analyst in Tier 1 investment banking for 6 years acting as a bridge between business stakeholders and technology teams. Key transferable skills acquired during banking days; Critical thinking, stakeholder management, working with data. 
+In a previous life I worked as a Business Analyst in Tier 1 investment banking for 8 years acting as a bridge between business stakeholders and technology teams. Key transferable skills acquired during banking days; Critical thinking, stakeholder management, working with data. 
 
-I now have 10+ years of experience in startups and technology (as a founder, mentor and employee). My role is a Product Manager. I have helped tech companies be more data driven. As I love to apply a scientific process to most things, I am part of a charity called Museum of Happiness where we help people understand the scientific drivers of a happy content life! 
+I have 10+ years of experience in startups and technology (as a founder, mentor and employee). My role is a Product Manager. I have helped tech companies be more data driven. As I love to apply a scientific process to most things, I am part of a charity called Museum of Happiness where we help people understand the scientific drivers of a happy content life! 
 
 * 🌍  I'm based in London
 * 🧠  I'm learning SQL, Python, Pandas, NumPy
-* ⚡   Prev/Consult as Product Manager in tech
-* 🤓  Prev. Business Analyst in Investment Banking
+* ⚡   Product Manager in tech
+* 🤓  Prev. Business Analyst in Tier 1 Investment Banking
 
 ### 💻 Skills & Tech Stack:
 
